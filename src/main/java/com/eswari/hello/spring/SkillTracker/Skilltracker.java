@@ -12,7 +12,7 @@ public class Skilltracker {
                 "<html>" +
                         "<body>" +
                         "<h1>Skills Tracker</h1>" +
-                        "<h2>We have a few skills we would like to learn.Here is a List.</h2>" +
+                        "<h2>We have a few skills we would like to learn.Here is a List. </h2>" +
                         "<ol>" +
                         "<li>Java</li>"+
                         "<li>JavaScript</li>"+
